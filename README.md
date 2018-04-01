@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to EXB Digital Labs
 
 You can use the [editor on GitHub](https://github.com/exbdigital/exbdigital.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -13,7 +13,6 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
 
 - Bulleted
 - List
